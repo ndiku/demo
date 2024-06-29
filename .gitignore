@@ -40,6 +40,5 @@ next-env.d.ts
 
 # Bun & Package mgmt
 bun.*
-bun.lockb
 *.lock
-*.lockb
+*.lockb*
