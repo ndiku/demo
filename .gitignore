@@ -39,7 +39,7 @@ next-env.d.ts
 *.swp
 
 # Bun & Package mgmt
-/bun.*
+bun.*
 bun.lockb
 *.lock
 *.lockb
