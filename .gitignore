@@ -37,3 +37,8 @@ next-env.d.ts
 
 # vim
 *.swp
+
+# Bun & Package mgmt
+/bun.*
+*.lockb
+*.lock
